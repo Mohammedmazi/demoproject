@@ -1,1 +1,2 @@
-echo"welcome to github"
+echo"welcome to demo project"
+echo"this is my project"
